@@ -29,5 +29,4 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.7'
   gem 'capybara'
   gem 'database_cleaner'
-  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]  
 end
